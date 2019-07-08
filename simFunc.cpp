@@ -32,7 +32,7 @@ int main() {
 	intSizeOutput = sizeof(short int);
 	
 	strOutput << intOutput;
-	strSize << intSizeOutput;  //It seems int is equivalent to long int
+	strSize << intSizeOutput;  //It seems int is equiv to long int
 	
 	cout << "Total is: " << strOutput.str() << "\n";
 	cout <<  "Size of Datatype is: " << strSize.str() << "\n";
