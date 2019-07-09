@@ -4,12 +4,6 @@
 #include <string>
 #include <sstream>
 
-<<<<<<< HEAD
-//make a change
-=======
-//make a change
->>>>>>> parent of 593d6ce... make a second change
-
 using namespace std; //this contains the cout cin variables
 
 int getSum(int a, int b){
